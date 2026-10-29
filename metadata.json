@@ -1,0 +1,6 @@
+{
+  "name": "BIT Student Health Center Management System",
+  "description": "Comprehensive institutional healthcare management platform for Bannari Amman Institute of Technology (BIT), Sathyamangalam. Featuring student appointment booking, live queue tokens, online consultations, digital prescriptions, EMR, and pharmacy inventory control.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
